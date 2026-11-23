@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://octopus-inc.github.io/s2t-local/sitemap.xml
